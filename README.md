@@ -3,7 +3,7 @@
 A machine learning powered web application built with **Streamlit** that predicts the risk of heart disease based on patient health parameters.
 
 ## 🚀 Live Demo
-Try the app here: [Heart Stroke Predictor](https://heart-stroke-divesh-predict.streamlit.app)
+Try the app here: [ttps://heartstrokediveshpredict-zjcxdv37tqzfbvze8n2ce9.streamlit.app)
 
 ---
 
